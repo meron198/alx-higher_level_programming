@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 include <Python.h>
+=======
+#include <Python.h>
+>>>>>>> 59b8cbd752a7c026d7266adad5825df11d906f30
 
 /**
  * print_python_list_info - Prints basic info about Python lists.
